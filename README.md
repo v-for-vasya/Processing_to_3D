@@ -30,4 +30,4 @@ maxForce = 1.00, maxForceNoise = 1.00, maxSpeed = 1.0, desiredSeparation = 5, se
 maxForce = 2.50, maxForceNoise = 1.50, maxSpeed = 2.0, desiredSeparation = 5, separationCohesionRation = 0.5, maxEdgeLen = 8
 
 Application of above diffusion processes as displacement maps in 3D:
-![](examples/cup_nervous.png)
+![](examples/cup.png)
