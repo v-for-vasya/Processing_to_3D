@@ -3,6 +3,14 @@ Converting Processing output to .obj for 3D printing purposes
 <b>Requires</b>
 -Processing from: https://processing.org/download/ & ExportOBJ from: https://n-e-r-v-o-u-s.com/tools/obj/  
 
+
+Application diffusion processes as displacement maps in 3D:
+![](examples/cup.png)
+
+Application of diffusion processes as extrusions in 3D:
+![](examples/blender.PNG)
+
+
 Examples with parameters:
 
 ![](examples/1.png)<br>
@@ -28,6 +36,3 @@ maxForce = 1.00, maxForceNoise = 1.00, maxSpeed = 1.0, desiredSeparation = 5, se
 
 ![](examples/8.png)<br>
 maxForce = 2.50, maxForceNoise = 1.50, maxSpeed = 2.0, desiredSeparation = 5, separationCohesionRation = 0.5, maxEdgeLen = 8
-
-Application of above diffusion processes as displacement maps in 3D:
-![](examples/cup.png)
