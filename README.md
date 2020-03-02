@@ -1,4 +1,4 @@
-Converting Processing output to .obj for 3D printing purposes
+Convert Processing output to .obj for 3D printing purposes.
 
 <b>Requires</b>
 -Processing from: https://processing.org/download/ & ExportOBJ from: https://n-e-r-v-o-u-s.com/tools/obj/  
