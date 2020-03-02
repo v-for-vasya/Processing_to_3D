@@ -4,7 +4,7 @@ Converting Processing output to .obj for 3D printing purposes
 -Processing from: https://processing.org/download/ & ExportOBJ from: https://n-e-r-v-o-u-s.com/tools/obj/  
 
 
-Application diffusion processes as displacement maps in 3D:
+Application of diffusion processes as displacement maps in 3D:
 ![](examples/cup.png)
 
 Application of diffusion processes as extrusions in 3D:
